@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.local
+.git
+*.log
+debug
+examples
+production-listings/images
+.claude
