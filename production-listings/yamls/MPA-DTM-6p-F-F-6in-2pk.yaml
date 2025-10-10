@@ -1,0 +1,91 @@
+# Deutsch DTM 6-Pin Female to Female Wire Harness - 6 Inch - 2-Pack
+# SKU: MPA-DTM-6P-F-F-6IN-2PK
+# Compact automotive-grade Deutsch DTM connector system with 18 AWG GXL wire
+
+product:
+  title: "Genuine Deutsch DTM 6-Pin Female to Female Wire Harness - 6 Inch - 2-Pack - 18 AWG GXL Automotive Wire - IP68 Rated - Compact Design for Sensors"
+  sku: "MPA-DTM-6P-F-F-6IN-2PK"
+  brand: "Generic"
+  manufacturer: "MiniProto"
+  description: |
+    Professional-grade 6-pin Deutsch DTM female-to-female wire harness designed for sensors, electronics, and space-constrained automotive applications. Built with genuine Deutsch DTM04-6P receptacle connectors and premium 18 AWG GXL automotive wire, this harness delivers exceptional reliability and performance in demanding environments while maintaining a compact footprint.
+
+    KEY FEATURES
+    • Genuine Deutsch DTM Series connectors (DTM04-6P receptacles with wedges)
+    • 18 AWG GXL automotive-grade wire for sensor and electronics applications
+    • IP68 rated when properly mated - waterproof and dustproof
+    • Enhanced temperature rating: -55C to +150C (higher than DT series)
+    • Compact design ideal for space-constrained installations
+    • Gold-plated contacts for excellent corrosion resistance
+    • 6-inch length perfect for sensor harnesses and short connections
+    • Automotive-grade assembly built to IPC/WHMA-A-620 workmanship standards
+    • Black wire construction for a clean, professional look
+    • Sold in a convenient 2-pack for multiple connections or backup
+
+    TECHNICAL SPECIFICATIONS
+    • Connector Type: Deutsch DTM Series - DTM04-6P female receptacles on both ends with wedge locks
+    • Wire Gauge: 18 AWG GXL (Cross-linked polyethylene insulation)
+    • Wire Type: Multi-strand automotive wire, black color
+    • Length: 6 inches (152mm)
+    • Current Rating: 7.5A per pin
+    • Voltage Rating: 600V max
+    • Temperature Range: -55C to +150C
+    • IP Rating: IP68 (when properly mated)
+
+    APPLICATIONS
+    • Sensor connections and instrumentation
+    • Automotive electronics and control modules
+    • Marine electronics in tight spaces
+    • Motorsports and racing sensor harnesses
+    • Industrial automation and robotics
+    • Compact lighting controllers
+    • Space-constrained engine bay applications
+
+    QUALITY ASSURANCE
+    Each harness is manufactured to IPC/WHMA-A-620 standards with rigorous quality control. All connectors are tested for proper fit and electrical continuity before packaging. ASSEMBLED IN THE USA.
+
+specifications:
+  pin_count: 6
+  wire_gauge: "18 AWG"
+  length: "6 inches"
+  connector_type: "Deutsch Connector"
+  cable_type: "GXL Automotive Wire"
+  connector_gender: "Female-to-Female"
+  current_rating: "7.5A per pin"
+  voltage_rating: "600V"
+  temperature_range: "-55C to +150C"
+  style: "6P-F-F-6IN"
+
+pricing:
+  price: 32.99
+
+images:
+  - "/Users/amalcoci/Documents/amazon-listing-cli/production-listings/images/MPA-DTM-6p-F-F-6in-2pk-Main.png"
+  - "/Users/amalcoci/Documents/amazon-listing-cli/production-listings/images/MPA-DTM-6p-F-F-6in-2pk-Secondary.png"
+
+amazon:
+  category: "automotive-electrical"
+  external_product_id_type: "GCID"
+  merchant_suggested_asin: "NEW"
+  search_keywords:
+    - "Deutsch DTM wire harness 6 pin"
+    - "compact automotive connector cable"
+    - "DTM04 receptacle wire harness"
+    - "6 inch Deutsch DTM connector"
+    - "18 AWG GXL wire"
+    - "IP68 waterproof sensor harness"
+    - "automotive sensor wire assembly"
+    - "female to female harness"
+    - "Deutsch DTM 6 pin connector"
+    - "compact automotive wiring"
+    - "sensor grade wire harness"
+    - "space saver connector cable"
+    - "automotive electronics harness"
+    - "2 pack connector set"
+    - "high temp sensor wire"
+  bullet_points:
+    - "GENUINE DEUTSCH DTM CONNECTORS: Authentic Deutsch DTM04-6P female receptacle connectors with wedge locks - compact design perfect for sensors and space-constrained applications"
+    - "AUTOMOTIVE-GRADE WIRE: 18 AWG GXL cross-linked polyethylene insulated wire rated for automotive sensor and electronics applications with superior flexibility"
+    - "IP68 RATED & ENHANCED TEMPERATURE: Waterproof, dustproof design when properly mated - rated from -55C to +150C for extreme environments and sensor applications"
+    - "ASSEMBLED IN THE USA: Professional-grade harness assembly performed in the United States with rigorous quality control and continuity testing"
+    - "VALUE 2-PACK: Includes two 6-inch compact harnesses ideal for sensor installations, electronics projects, or spares - perfect for space-constrained builds"

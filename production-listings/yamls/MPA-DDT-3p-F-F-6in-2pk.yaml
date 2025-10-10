@@ -1,0 +1,91 @@
+# Deutsch DT 3-Pin Female to Female Wire Harness - 6 Inch - 2-Pack
+# SKU: MPA-DDT-3P-F-F-6IN-2PK
+# Automotive-grade Deutsch DT connector system with 16 AWG GXL wire
+
+product:
+  title: "Genuine Deutsch DT 3-Pin Female to Female Wire Harness - 6 Inch - 2-Pack - 16 AWG GXL Automotive Wire - IP68 Rated - Vibration Resistant"
+  sku: "MPA-DDT-3P-F-F-6IN-2PK"
+  brand: "Generic"
+  manufacturer: "MiniProto"
+  description: |
+    Professional-grade 3-pin Deutsch DT female-to-female wire harness designed for automotive, marine, and industrial applications. Built with genuine Deutsch DT04-3P receptacle connectors and premium 16 AWG GXL automotive wire, this harness delivers exceptional reliability and performance in harsh environments.
+
+    KEY FEATURES
+    • Genuine Deutsch DT Series connectors (DT04-3P receptacles with wedges)
+    • 16 AWG GXL automotive-grade wire for superior durability
+    • IP68 rated when properly mated - waterproof and dustproof
+    • Vibration and shock resistant for demanding applications
+    • Gold-plated contacts for excellent corrosion resistance
+    • 6-inch length ideal for sensor and control applications
+    • Automotive-grade assembly built to IPC/WHMA-A-620 workmanship standards
+    • Black wire construction for a clean, professional look
+    • Sold in a convenient 2-pack for multiple connections or backup
+
+    TECHNICAL SPECIFICATIONS
+    • Connector Type: Deutsch DT Series - DT04-3P female receptacles on both ends with wedge locks
+    • Wire Gauge: 16 AWG GXL (Cross-linked polyethylene insulation)
+    • Wire Type: Solid core automotive wire, black color
+    • Length: 6 inches (152mm)
+    • Current Rating: 13A per pin (39A total)
+    • Voltage Rating: 600V max
+    • Temperature Range: -40C to +125C
+    • IP Rating: IP68 (when properly mated)
+
+    APPLICATIONS
+    • Automotive sensor extensions and modifications
+    • Marine electronics and navigation systems
+    • Off-road vehicle lighting and accessories
+    • Heavy equipment control systems
+    • Industrial automation and robotics
+    • Motorsports and racing applications
+    • Engine management and MAP sensors
+    • Power distribution in harsh environments
+
+    QUALITY ASSURANCE
+    Each harness is manufactured to IPC/WHMA-A-620 standards with rigorous quality control. All connectors are tested for proper fit and electrical continuity before packaging. ASSEMBLED IN THE USA.
+
+specifications:
+  pin_count: 3
+  wire_gauge: "16 AWG"
+  length: "6 inches"
+  connector_type: "Deutsch Connector"
+  cable_type: "GXL Automotive Wire"
+  connector_gender: "Female-to-Female"
+  current_rating: "13A per pin"
+  voltage_rating: "600V"
+  temperature_range: "-40C to +125C"
+  style: "3P-F-F-6IN"
+
+pricing:
+  price: 15.99
+
+images:
+  - "/Users/amalcoci/Documents/amazon-listing-cli/production-listings/images/MPA-DDT-3p-F-F-6in-2pk-Main.png"
+  - "/Users/amalcoci/Documents/amazon-listing-cli/production-listings/images/MPA-DDT-3p-F-F-6in-2pk-Secondary.png"
+
+amazon:
+  category: "automotive-electrical"
+  external_product_id_type: "GCID"
+  merchant_suggested_asin: "NEW"
+  search_keywords:
+    - "Deutsch DT wire harness 3 pin"
+    - "automotive female connector cable"
+    - "DT04 receptacle wire harness"
+    - "6 inch Deutsch DT connector"
+    - "16 AWG GXL wire"
+    - "IP68 waterproof wire harness"
+    - "automotive wire assembly"
+    - "female to female harness"
+    - "Deutsch DT 3 pin connector"
+    - "automotive sensor wiring"
+    - "marine grade wire harness"
+    - "vibration resistant cable"
+    - "automotive electrical harness"
+    - "2 pack connector set"
+    - "heavy duty automotive wire"
+  bullet_points:
+    - "GENUINE DEUTSCH DT CONNECTORS: Authentic Deutsch DT04-3P female receptacle connectors with wedge locks on both ends for secure, waterproof connections"
+    - "AUTOMOTIVE-GRADE WIRE: 16 AWG GXL cross-linked polyethylene insulated wire rated for harsh automotive environments and extreme temperature swings"
+    - "IP68 RATED & VIBRATION RESISTANT: Waterproof, dustproof design when properly mated - ideal for engine bays, sensors, and outdoor applications"
+    - "ASSEMBLED IN THE USA: Professional-grade harness assembly performed in the United States with rigorous quality control and continuity testing"
+    - "VALUE 2-PACK: Includes two 6-inch harnesses for quick installs, extensions, or spares - perfect for automotive sensor and control projects"

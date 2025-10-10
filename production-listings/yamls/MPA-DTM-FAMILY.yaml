@@ -1,0 +1,274 @@
+# Deutsch DTM Wire Harness Complete Family
+# Family SKU: MPA-DTM-FAMILY
+# Parent listing for all DTM pin counts, connector types, and lengths
+
+product:
+  title: "Genuine Deutsch DTM Wire Harness Complete Family - 2/3/4/6 Pin - Compact Design - IP68 Rated - 18 AWG GXL Automotive Wire - Sensor Grade"
+  sku: "MPA-DTM-FAMILY"
+  asin: ""
+  brand: "Generic"
+  manufacturer: "MiniProto"
+  description: |
+    Complete family of professional-grade Deutsch DTM wire harnesses designed for sensors, electronics, and space-constrained automotive applications. Built with genuine Deutsch DTM compact connectors and premium 18 AWG GXL automotive wire, this comprehensive family delivers exceptional reliability, enhanced temperature performance, and IP68-rated protection in demanding environments while maintaining a compact footprint.
+
+    Available in multiple pin counts (2, 3, 4, 6), connector configurations (Female-to-Female, Female-to-Male, Male-to-Male), and lengths (6-inch, 12-inch) to suit any sensor or electronics application requirement.
+
+    KEY FEATURES
+    • Genuine Deutsch DTM Series connectors - compact design
+    • 18 AWG GXL wire ideal for sensor and electronics applications
+    • IP68 rated when properly mated - waterproof and dustproof
+    • Enhanced temperature rating: -55C to +150C
+    • Gold-plated contacts for excellent corrosion resistance
+    • Sensor-grade assembly built to IPC/WHMA-A-620 standards
+    • Complete range of pin counts and connector configurations
+
+    AVAILABLE CONFIGURATIONS
+    • Pin Counts: 2-pin, 3-pin, 4-pin, 6-pin
+    • Connector Types: Female-to-Female, Female-to-Male, Male-to-Male
+    • Lengths: 6 inches, 12 inches
+    • All variants sold in convenient 2-packs
+
+    TECHNICAL SPECIFICATIONS
+    • Connector System: Deutsch DTM Series (compact connectors)
+    • Wire Gauge: 18 AWG GXL
+    • Current Rating: 7.5A per pin
+    • Voltage Rating: 600V max
+    • Temperature Range: -55C to +150C
+    • IP Rating: IP68 (when properly mated)
+
+    APPLICATIONS
+    • Sensor connections and instrumentation
+    • Automotive electronics and control modules
+    • Marine electronics in tight spaces
+    • Industrial automation and robotics
+    • Space-constrained engine bay applications
+
+    QUALITY ASSURANCE
+    Each harness is manufactured to IPC/WHMA-A-620 standards with rigorous quality control. All connectors are tested for proper fit and electrical continuity before packaging. ASSEMBLED IN THE USA.
+
+specifications:
+  connector_type: "Deutsch Connector"
+  wire_gauge: "18 AWG"
+  cable_type: "GXL Automotive Wire"
+  current_rating: "7.5A per pin"
+  voltage_rating: "600V"
+  temperature_range: "-55C to +150C"
+  pin_count: 2
+  length: "6 inches"
+
+pricing:
+  price: 13.99
+
+images: []
+
+amazon:
+  category: "automotive-electrical"
+  external_product_id_type: "ASIN"
+  merchant_suggested_asin: "NEW"
+  variation_theme: "size_name"
+
+  variation_data:
+    parent_sku: "MPA-DTM-FAMILY"
+    variants:
+      # 2-Pin Variants
+      - sku: "MPA-DTM-2P-F-F-6IN-2PK"
+        asin: "PENDING"
+        size_name: "2-Pin F-F 6in"
+        pin_count: 2
+        length: "6 inches"
+        connector_type: "Female-to-Female"
+        price: 15.99
+      - sku: "MPA-DTM-2P-F-F-12IN-2PK"
+        asin: "PENDING"
+        size_name: "2-Pin F-F 12in"
+        pin_count: 2
+        length: "12 inches"
+        connector_type: "Female-to-Female"
+        price: 15.99
+      - sku: "MPA-DTM-2P-F-M-6IN-2PK"
+        asin: "PENDING"
+        size_name: "2-Pin F-M 6in"
+        pin_count: 2
+        length: "6 inches"
+        connector_type: "Female-to-Male"
+        price: 14.99
+      - sku: "MPA-DTM-2P-F-M-12IN-2PK"
+        asin: "PENDING"
+        size_name: "2-Pin F-M 12in"
+        pin_count: 2
+        length: "12 inches"
+        connector_type: "Female-to-Male"
+        price: 14.99
+      - sku: "MPA-DTM-2P-M-M-6IN-2PK"
+        asin: "PENDING"
+        size_name: "2-Pin M-M 6in"
+        pin_count: 2
+        length: "6 inches"
+        connector_type: "Male-to-Male"
+        price: 13.99
+      - sku: "MPA-DTM-2P-M-M-12IN-2PK"
+        asin: "PENDING"
+        size_name: "2-Pin M-M 12in"
+        pin_count: 2
+        length: "12 inches"
+        connector_type: "Male-to-Male"
+        price: 13.99
+
+      # 3-Pin Variants
+      - sku: "MPA-DTM-3P-F-F-6IN-2PK"
+        asin: "PENDING"
+        size_name: "3-Pin F-F 6in"
+        pin_count: 3
+        length: "6 inches"
+        connector_type: "Female-to-Female"
+        price: 20.99
+      - sku: "MPA-DTM-3P-F-F-12IN-2PK"
+        asin: "PENDING"
+        size_name: "3-Pin F-F 12in"
+        pin_count: 3
+        length: "12 inches"
+        connector_type: "Female-to-Female"
+        price: 20.99
+      - sku: "MPA-DTM-3P-F-M-6IN-2PK"
+        asin: "PENDING"
+        size_name: "3-Pin F-M 6in"
+        pin_count: 3
+        length: "6 inches"
+        connector_type: "Female-to-Male"
+        price: 19.99
+      - sku: "MPA-DTM-3P-F-M-12IN-2PK"
+        asin: "PENDING"
+        size_name: "3-Pin F-M 12in"
+        pin_count: 3
+        length: "12 inches"
+        connector_type: "Female-to-Male"
+        price: 19.99
+      - sku: "MPA-DTM-3P-M-M-6IN-2PK"
+        asin: "PENDING"
+        size_name: "3-Pin M-M 6in"
+        pin_count: 3
+        length: "6 inches"
+        connector_type: "Male-to-Male"
+        price: 19.99
+      - sku: "MPA-DTM-3P-M-M-12IN-2PK"
+        asin: "PENDING"
+        size_name: "3-Pin M-M 12in"
+        pin_count: 3
+        length: "12 inches"
+        connector_type: "Male-to-Male"
+        price: 19.99
+
+      # 4-Pin Variants
+      - sku: "MPA-DTM-4P-F-F-6IN-2PK"
+        asin: "PENDING"
+        size_name: "4-Pin F-F 6in"
+        pin_count: 4
+        length: "6 inches"
+        connector_type: "Female-to-Female"
+        price: 23.99
+      - sku: "MPA-DTM-4P-F-F-12IN-2PK"
+        asin: "PENDING"
+        size_name: "4-Pin F-F 12in"
+        pin_count: 4
+        length: "12 inches"
+        connector_type: "Female-to-Female"
+        price: 23.99
+      - sku: "MPA-DTM-4P-F-M-6IN-2PK"
+        asin: "PENDING"
+        size_name: "4-Pin F-M 6in"
+        pin_count: 4
+        length: "6 inches"
+        connector_type: "Female-to-Male"
+        price: 22.99
+      - sku: "MPA-DTM-4P-F-M-12IN-2PK"
+        asin: "PENDING"
+        size_name: "4-Pin F-M 12in"
+        pin_count: 4
+        length: "12 inches"
+        connector_type: "Female-to-Male"
+        price: 23.99
+      - sku: "MPA-DTM-4P-M-M-6IN-2PK"
+        asin: "PENDING"
+        size_name: "4-Pin M-M 6in"
+        pin_count: 4
+        length: "6 inches"
+        connector_type: "Male-to-Male"
+        price: 22.99
+      - sku: "MPA-DTM-4P-M-M-12IN-2PK"
+        asin: "PENDING"
+        size_name: "4-Pin M-M 12in"
+        pin_count: 4
+        length: "12 inches"
+        connector_type: "Male-to-Male"
+        price: 22.99
+
+      # 6-Pin Variants
+      - sku: "MPA-DTM-6P-F-F-6IN-2PK"
+        asin: "PENDING"
+        size_name: "6-Pin F-F 6in"
+        pin_count: 6
+        length: "6 inches"
+        connector_type: "Female-to-Female"
+        price: 32.99
+      - sku: "MPA-DTM-6P-F-F-12IN-2PK"
+        asin: "PENDING"
+        size_name: "6-Pin F-F 12in"
+        pin_count: 6
+        length: "12 inches"
+        connector_type: "Female-to-Female"
+        price: 33.99
+      - sku: "MPA-DTM-6P-F-M-6IN-2PK"
+        asin: "PENDING"
+        size_name: "6-Pin F-M 6in"
+        pin_count: 6
+        length: "6 inches"
+        connector_type: "Female-to-Male"
+        price: 29.99
+      - sku: "MPA-DTM-6P-F-M-12IN-2PK"
+        asin: "PENDING"
+        size_name: "6-Pin F-M 12in"
+        pin_count: 6
+        length: "12 inches"
+        connector_type: "Female-to-Male"
+        price: 30.99
+      - sku: "MPA-DTM-6P-M-M-6IN-2PK"
+        asin: "PENDING"
+        size_name: "6-Pin M-M 6in"
+        pin_count: 6
+        length: "6 inches"
+        connector_type: "Male-to-Male"
+        price: 27.99
+      - sku: "MPA-DTM-6P-M-M-12IN-2PK"
+        asin: "PENDING"
+        size_name: "6-Pin M-M 12in"
+        pin_count: 6
+        length: "12 inches"
+        connector_type: "Male-to-Male"
+        price: 27.99
+
+  search_keywords:
+    - "Deutsch DTM wire harness family"
+    - "compact automotive connector cable set"
+    - "2 3 4 6 pin sensor harness"
+    - "Deutsch DTM connector complete family"
+    - "18 AWG GXL wire harness"
+    - "IP68 waterproof sensor harness"
+    - "compact automotive cable"
+    - "female male sensor connector"
+    - "Deutsch DTM complete family"
+    - "automotive sensor harness family"
+    - "marine electronics wire set"
+    - "black GXL sensor cable"
+    - "automotive electronics harness family"
+    - "multiple pin count sensor harness"
+    - "custom sensor cable set"
+    - "industrial sensor connector"
+    - "high temp sensor cable family"
+    - "space saver wiring harness"
+
+  bullet_points:
+    - "COMPLETE DEUTSCH DTM FAMILY: Full range of 2/3/4/6-pin compact harnesses in Female-to-Female, Female-to-Male, and Male-to-Male configurations for sensor and electronics applications"
+    - "SENSOR-GRADE WIRE: 18 AWG GXL cross-linked polyethylene wire rated for 7.5A per pin - perfect for sensors, electronics, and space-constrained automotive applications"
+    - "IP68 WATERPROOF & ENHANCED TEMPERATURE: Industry-leading protection when properly mated with -55C to +150C rating - superior to standard DT series for extreme environments"
+    - "ASSEMBLED IN THE USA: All variants built to IPC/WHMA-A-620 workmanship standards with rigorous quality control and continuity testing for reliable sensor performance"
+    - "COMPACT DESIGN OPTIONS: Available in 6-inch and 12-inch lengths, all sold in convenient 2-packs - ideal for tight spaces, sensor installations, and electronics projects"

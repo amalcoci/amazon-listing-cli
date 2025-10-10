@@ -327,7 +327,6 @@ export class ListingsItemsAPI {
       fulfillment_availability: [
         {
           fulfillment_channel_code: 'AMAZON_NA',
-          quantity: 100,
           marketplace_id: marketplaceId,
         }
       ],
@@ -345,8 +344,7 @@ export class ListingsItemsAPI {
                 }
               ]
             }
-          ],
-          quantity: 100
+          ]
         }
       ],
 
